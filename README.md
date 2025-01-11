@@ -33,15 +33,14 @@ Here are some ideas to get you started:
 <!-- Service Logos by Sawaratsuki
 https://github.com/SAWARATSUKI/ServiceLogos -->
 <p>
-<img height="48" alt="Vue" src="https://vuejs.org/logo-uwu.png">
-<img height="48" alt="Vite" src="https://github.com/lcandy2/lcandy2/assets/45784494/99f46007-661f-43b8-a2e6-a966278a9e4c">
-<img height="48" alt="TypeScript" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png">
-<img height="48" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png">
-<img height="48" alt="Node.js" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png">
-<img height="48" alt="HTML" src="https://github.com/lcandy2/lcandy2/assets/45784494/e98b5aa7-2d8d-4825-8632-70a6673e05b2">
-<img height="48" alt="Cloudflare" src="https://github.com/lcandy2/lcandy2/assets/45784494/70340238-1a37-451c-94b1-e4afb7ae2449">
-<img height="48" alt="VSCode" src="https://github.com/lcandy2/lcandy2/assets/45784494/f0d35ab8-ec0a-4c40-b3c1-1d3216400221">
-<img height="48" alt="idea" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IntelliJ%20IDEA/IntelliJ%20IDEA.png?raw=true">
+<img height="96" alt="Vue" src="https://vuejs.org/logo-uwu.png">
+<img height="96" alt="Vite" src="https://github.com/lcandy2/lcandy2/assets/45784494/99f46007-661f-43b8-a2e6-a966278a9e4c">
+<img height="96" alt="TypeScript" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/TypeScript/TypeScript.png">
+<img height="96" alt="Tailwindcss" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png">
+<img height="96" alt="Node.js" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Node.js/Node.js.png">
+<img height="96" alt="Cloudflare" src="https://github.com/lcandy2/lcandy2/assets/45784494/70340238-1a37-451c-94b1-e4afb7ae2449">
+<img height="96" alt="VSCode" src="https://github.com/lcandy2/lcandy2/assets/45784494/f0d35ab8-ec0a-4c40-b3c1-1d3216400221">
+<img height="96" alt="idea" src="https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/IntelliJ%20IDEA/IntelliJ%20IDEA.png?raw=true">
 </p>
 
 <!-- Snake Game Image, codes from @ann61c -->
