@@ -10,7 +10,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&hide_rank=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&hide_rank=true&hide_title=true" alt="LingJueYa's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&hide_rank=true&hide_title=true" alt="RCBS's GitHub Stats" />
 </picture>
 
 <!--
