@@ -1,17 +1,8 @@
 ## こんにちは！RCBSです！😈😡 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=realcodestudio" alt="RCBS's GitHub Profile Views" />
 
 <!-- Github Readme Stats Image, Thanks to @anuraghazra -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&theme=dark&hide_rank=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&hide_rank=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=realcodestudio&show_icons=true&hide_rank=true&hide_title=true" alt="RCBS's GitHub Stats" />
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realcodestudio)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lcandy2/lcandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
